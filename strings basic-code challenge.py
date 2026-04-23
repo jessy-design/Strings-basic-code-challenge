@@ -1,5 +1,10 @@
-print(10>9)
-print(10==9)
-print(bool("Hello"))
-print(bool(0))
+x = 15
+y = 4
 
+print(x + y)
+print(x - y)
+print(x * y)
+print(x / y)
+print(x % y)
+print(x ** y)
+print(x // y)
