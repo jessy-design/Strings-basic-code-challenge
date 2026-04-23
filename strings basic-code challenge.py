@@ -1,5 +1,5 @@
-txt="Hello, World!"
-print(txt[2:5])
-print(txt.upper())
-name = "Python"
-print(f"I love {name}")
+print(10>9)
+print(10==9)
+print(bool("Hello"))
+print(bool(0))
+
